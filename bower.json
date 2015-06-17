@@ -1,0 +1,21 @@
+{
+  "name": "TypescriptDemo2",
+  "version": "0.0.0",
+  "authors": [
+    "jerry_lin <jerry_lin@payeasy.com.tw>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "~2.8.3"
+  }
+}
